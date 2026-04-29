@@ -1,0 +1,2 @@
+This branch demonstrates the multi-cursor in VS code. It allows editing multiple lines at once. improving productivity
+This is an additional line to demonstrate
